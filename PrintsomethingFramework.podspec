@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'PrintsomethingFramework'
-  spec.version      = '1.0.0'
+  spec.version      = '1.0.1'
   spec.summary      = 'A brief description of PrintsomethingFramework.'
   spec.description  = 'A more detailed description of PrintsomethingFramework.'
   spec.homepage     = 'https://github.com/RekanAnwar/PrintSomeThingPublish.git'
