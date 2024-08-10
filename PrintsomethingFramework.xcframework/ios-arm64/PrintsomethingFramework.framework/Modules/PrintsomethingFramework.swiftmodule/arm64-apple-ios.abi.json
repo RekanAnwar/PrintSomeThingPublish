@@ -1,0 +1,58 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PrintsomethingFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PrintSomeThing",
+        "printedName": "PrintSomeThing",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "printSomeThing",
+            "printedName": "printSomeThing()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:23PrintsomethingFramework14PrintSomeThingC05printdE0yyFZ",
+            "mangledName": "$s23PrintsomethingFramework14PrintSomeThingC05printdE0yyFZ",
+            "moduleName": "PrintsomethingFramework",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:23PrintsomethingFramework14PrintSomeThingC",
+        "mangledName": "$s23PrintsomethingFramework14PrintSomeThingC",
+        "moduleName": "PrintsomethingFramework",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
